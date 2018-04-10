@@ -3,8 +3,8 @@
 <PropertyList include="Aircraft/Generic/Human/Include/walker-include.xml">
 <sim>
 
-	<description>2016 Chevy Camaro SS</description>
-	<author>Bulldog RS (Aucafly), J Maverick 16</author>
+	<description>2016 Camaro SS</description>
+	<author>Bulldog RS (Aucafly)</author>
 	<status>Ground Vehicle</status>
 	<flight-model>yasim</flight-model>
 	<aero>rs</aero>
